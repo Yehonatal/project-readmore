@@ -8,7 +8,7 @@ export default function HomePage() {
         <div className=" max-w-[650px] text-center ">
           <p>
             Readmore is your personal book recommendation system. Simply input
-            the books you've read or found intriguing, and receive tailored
+            the books you&apos;ve read or found intriguing, and receive tailored
             suggestions for new reads based on your interests. Discover your
             next favorite book with Readmore!
           </p>
